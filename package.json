@@ -1,0 +1,23 @@
+{
+  "name": "leeds_async_morning_task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/northcoders/leeds_async_morning_task.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/northcoders/leeds_async_morning_task/issues"
+  },
+  "homepage": "https://github.com/northcoders/leeds_async_morning_task#readme",
+  "devDependencies": {
+    "jest": "^25.2.0"
+  }
+}
