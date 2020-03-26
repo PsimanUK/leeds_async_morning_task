@@ -1,5 +1,7 @@
 const { preparePizza, cookPizza, boxPizza } = require("../utils");
 
-function makePizza(pizzaOrder, cb) {}
+function makePizza(pizzaOrder, callBack) {}
 
-module.exports = makePizza;
+function makePizzas(pizzaOrders, callBack) {}
+
+module.exports = { makePizza, makePizzas };

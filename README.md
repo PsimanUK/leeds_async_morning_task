@@ -33,5 +33,3 @@ You can use the pre-prepared tests for this.
 Now you've got dealing with a single order down, you need to build a function that handles an array of pizzas, and brings them back in the correct order.
 
 Using all the single pizza utils from before, write a function that takes an array and returns the prepared, cooked and boxed pizzas in an ordered array. You may not use a sort function.
-
-Do this with asynchronous TDD.
